@@ -2,7 +2,7 @@
 
 ## Starting the service
 
-- Clone and run <https://github.com/qurram-zaheer/esa_cart_api> . While cart_api is running, you should see in the logs
+- Clone and run https://github.com/abdulmateen-9/ESA-CartAPI . While cart_api is running, you should see in the logs
 
   > Server is listening on port 5000
 
